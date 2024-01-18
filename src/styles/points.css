@@ -1,0 +1,17 @@
+.points{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 13px;
+}
+
+
+.score{
+    background-color: white;
+    color: rgba(0, 0, 0, 0.822);
+    padding: 20px;
+    border-radius: 10px;
+    padding: 10px;
+    box-shadow: 1px 1px 1px wheat;
+    width: 100%;
+}
